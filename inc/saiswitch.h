@@ -145,7 +145,7 @@ typedef enum _sai_packet_vlan_t
      * Packet inner TPID matches to the configured inner TPID
      */
     SAI_PACKET_VLAN_DOUBLE_TAG
-
+...
 } sai_packet_vlan_t;
 
 /**
